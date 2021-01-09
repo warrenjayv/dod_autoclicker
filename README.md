@@ -12,5 +12,5 @@ clicks the right mouse button repeatedly for the dod flashlight.
   written in C++ and runs on windows. 
   
   STATUS: currently not working if certain libraries aren't installed; need to recompile using source. 
- 
+          requires libgcc & libstdc++
  
