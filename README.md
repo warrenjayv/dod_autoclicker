@@ -10,5 +10,7 @@ clicks the right mouse button repeatedly for the dod flashlight.
  
   this is just a simple program for fun for my friend because he wanted to autoclick his dod flashlight.
   written in C++ and runs on windows. 
+  
+  STATUS: currently not working if certain libraries aren't installed; need to recompile using source. 
  
  
