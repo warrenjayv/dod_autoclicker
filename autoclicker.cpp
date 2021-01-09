@@ -40,7 +40,7 @@ int main() {
             mouse.mi.dx=0; mouse.mi.dy=0; 
             mouse.mi.mouseData = XBUTTON2;
             mouse.mi.dwExtraInfo = 0;
-            mouse.mi.dwFlags = MOUSEEVENTF_LEFTDOWN;
+            mouse.mi.dwFlags = MOUSEEVENTF_RIGHTDOWN;
             SendInput(1, &mouse, sizeof(INPUT));
             ZeroMemory(&mouse, sizeof(INPUT));
             Sleep(10); 
